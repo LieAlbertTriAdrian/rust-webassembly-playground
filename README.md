@@ -73,4 +73,4 @@ wasm-pack publish
   for small code size.
 
 ## References
-1. [https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b?sk=096ab6b11814a556a66427f500498d8a](Snake game)
+1. [Snake game](https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b?sk=096ab6b11814a556a66427f500498d8a)
