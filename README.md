@@ -1,3 +1,7 @@
+# rust-webassembly-playground
+
+![](https://github.com/LieAlbertTriAdrian/rust-webassembly-playground/workflows/rust/badge.svg)
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
